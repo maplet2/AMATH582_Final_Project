@@ -4,12 +4,12 @@ Created on Mon Mar 11 22:39:26 2019
 
 @author: Maple
 
-399 neurons being recorded
-98 trials of mice watching a movie
+Data (data.npy) contains 399 neurons being observed, where we have 98 trials of mice watching the
+same movie every single time. The neuron activity signal then has 2430 points in time where we record the signal. 
 
-Signal is about 80 seconds
+Signal is about ~80 seconds
 
-The neurons each has a number associated with them, ranging from 0-399
+The neurons each has an associated number, ranging from 0-399
 
 """
 #%%
